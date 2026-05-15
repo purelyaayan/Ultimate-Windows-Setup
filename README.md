@@ -51,12 +51,6 @@ Copy my configs, and replace them in their various places like for example copy 
 
 ---
 
-## 📸 Preview
-
-_Add screenshots of your setup here._
-
----
-
 ## ⭐ Notes
 
 These configs are made for my personal setup, so you may need to tweak a few things depending on your monitor resolution, scaling, or installed applications.
