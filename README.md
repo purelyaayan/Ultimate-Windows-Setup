@@ -19,9 +19,9 @@ A collection of my Windhawk mod settings and tweaks used for customizing Windows
 ## 📁 Repository Structure
 
 ```bash
-📂 windhawk-mod-settings
-📂 yasb-config
-📂 glazewm-config
+📂 GlazeWM
+📂 Windhawk
+📂 YASB
 ```
 
 ---
