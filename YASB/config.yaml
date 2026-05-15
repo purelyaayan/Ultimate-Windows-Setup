@@ -155,7 +155,7 @@ widgets:
     type: "yasb.wallpapers.WallpapersWidget"
     options:
       label: "<span>\udb80\udd1b</span>"
-      image_path: C:\Users\Daddy Aayan\Pictures\Bunny Girl Senpai Wallpapers
+      image_path: # Your file path where all your wallpapers are located. Eg: C:\Users\Your_Username\Pictures\Wallpapers
       change_automatically: false # Automatically change wallpaper
       update_interval: 60 # If change_automatically is true, update interval in seconds
       gallery:
