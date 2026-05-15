@@ -74,5 +74,5 @@ for making Windows customization so much better.
 
 ---
 
-## 🌟Please consider starring the repository if you like my setup. Feel free to make any changes to the setup according to your personal liking
+🌟Please consider starring the repository if you like my setup. Feel free to make any changes to the setup according to your personal liking
 
